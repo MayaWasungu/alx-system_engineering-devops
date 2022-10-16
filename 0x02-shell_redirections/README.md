@@ -1,1 +1,1 @@
-It is a good file that cuts iron without making a noise 
+Write a shell script that creates a file containing the text ending by a new line
