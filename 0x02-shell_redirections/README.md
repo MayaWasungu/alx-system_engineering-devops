@@ -1,1 +1,1 @@
-Write a shell script that creates a file containing the text ending by a new line
+Write a script that writes into the file ls_cwd_content the result of the command ls -la
